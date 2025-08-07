@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/siddu11-1/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/siddu11-1/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddu11-1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddu11-1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/siddu11-1/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/siddu11-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/siddu11-1/DSA/tree/master/0792-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddu11-1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/siddu11-1/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/siddu11-1/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddu11-1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/siddu11-1/DSA/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddu11-1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/siddu11-1/DSA/tree/master/0792-binary-search) |
 ## Monotonic Stack
 |  |
