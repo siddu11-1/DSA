@@ -14,7 +14,13 @@ class Solution(object):
                 nums.pop(i + 1)  # Remove the duplicate in-place
             else:
                 i += 1
-        return len(nums)        
+        return len(nums)
+                  
+
+                    
+
+        
+                
 
 
         
