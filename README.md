@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddu11-1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddu11-1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/siddu11-1/DSA/tree/master/0238-product-of-array-except-self) |
+| [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/siddu11-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/siddu11-1/DSA/tree/master/0792-binary-search) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/siddu11-1/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -78,18 +79,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddu11-1/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddu11-1/DSA/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/siddu11-1/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddu11-1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/siddu11-1/DSA/tree/master/0792-binary-search) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddu11-1/DSA/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddu11-1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
