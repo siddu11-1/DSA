@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddu11-1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddu11-1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/siddu11-1/DSA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/siddu11-1/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/siddu11-1/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/siddu11-1/DSA/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/siddu11-1/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddu11-1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/siddu11-1/DSA/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/siddu11-1/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddu11-1/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/siddu11-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddu11-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/siddu11-1/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/siddu11-1/DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/siddu11-1/DSA/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/siddu11-1/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddu11-1/DSA/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
