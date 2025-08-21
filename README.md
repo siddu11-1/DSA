@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/siddu11-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/siddu11-1/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/siddu11-1/DSA/tree/master/0792-binary-search) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddu11-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2058-concatenation-of-array](https://github.com/siddu11-1/DSA/tree/master/2058-concatenation-of-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/siddu11-1/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/siddu11-1/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/siddu11-1/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/siddu11-1/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddu11-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/siddu11-1/DSA/tree/master/2058-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddu11-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
