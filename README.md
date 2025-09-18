@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/siddu11-1/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/siddu11-1/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddu11-1/DSA/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/siddu11-1/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddu11-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddu11-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2058-concatenation-of-array](https://github.com/siddu11-1/DSA/tree/master/2058-concatenation-of-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/siddu11-1/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/siddu11-1/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/siddu11-1/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/siddu11-1/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddu11-1/DSA/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/siddu11-1/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddu11-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Monotonic Stack
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddu11-1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/siddu11-1/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Ordered Set
 |  |
 | ------- |
