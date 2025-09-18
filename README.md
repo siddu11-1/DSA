@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/siddu11-1/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/siddu11-1/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddu11-1/DSA/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/siddu11-1/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddu11-1/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddu11-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddu11-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/siddu11-1/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/siddu11-1/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/siddu11-1/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/siddu11-1/DSA/tree/master/0940-fruit-into-baskets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddu11-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddu11-1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/siddu11-1/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddu11-1/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Ordered Set
 |  |
