@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/siddu11-1/DSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/siddu11-1/DSA/tree/master/0940-fruit-into-baskets) |
+| [1019-squares-of-a-sorted-array](https://github.com/siddu11-1/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/siddu11-1/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddu11-1/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddu11-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/siddu11-1/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/siddu11-1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/siddu11-1/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/siddu11-1/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddu11-1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/siddu11-1/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
 |  |
 | ------- |
