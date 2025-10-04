@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/siddu11-1/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/siddu11-1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/siddu11-1/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/siddu11-1/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/siddu11-1/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddu11-1/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/siddu11-1/DSA/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/siddu11-1/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddu11-1/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/siddu11-1/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/siddu11-1/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/siddu11-1/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/siddu11-1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/siddu11-1/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/siddu11-1/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/siddu11-1/DSA/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddu11-1/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2383-add-two-integers](https://github.com/siddu11-1/DSA/tree/master/2383-add-two-integers) |
