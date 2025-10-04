@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/siddu11-1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddu11-1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
+| [0908-middle-of-the-linked-list](https://github.com/siddu11-1/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/siddu11-1/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/siddu11-1/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/siddu11-1/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
