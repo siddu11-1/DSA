@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/siddu11-1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddu11-1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/siddu11-1/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/siddu11-1/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/siddu11-1/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/siddu11-1/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddu11-1/DSA/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/siddu11-1/DSA/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/siddu11-1/DSA/tree/master/0054-spiral-matrix) |
+| [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/siddu11-1/DSA/tree/master/2058-concatenation-of-array) |
 ## Counting
 |  |
