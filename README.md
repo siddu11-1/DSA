@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/siddu11-1/DSA/tree/master/1720-crawler-log-folder) |
+| [2470-removing-stars-from-a-string](https://github.com/siddu11-1/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/siddu11-1/DSA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/siddu11-1/DSA/tree/master/1720-crawler-log-folder) |
+| [2470-removing-stars-from-a-string](https://github.com/siddu11-1/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/siddu11-1/DSA/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/siddu11-1/DSA/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/siddu11-1/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
