@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/siddu11-1/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddu11-1/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddu11-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1720-crawler-log-folder](https://github.com/siddu11-1/DSA/tree/master/1720-crawler-log-folder) |
 | [2058-concatenation-of-array](https://github.com/siddu11-1/DSA/tree/master/2058-concatenation-of-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/siddu11-1/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/siddu11-1/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
+| [1720-crawler-log-folder](https://github.com/siddu11-1/DSA/tree/master/1720-crawler-log-folder) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/siddu11-1/DSA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
+| [1720-crawler-log-folder](https://github.com/siddu11-1/DSA/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
 | ------- |
