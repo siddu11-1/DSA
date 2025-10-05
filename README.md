@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/siddu11-1/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddu11-1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/siddu11-1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddu11-1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/siddu11-1/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/siddu11-1/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/siddu11-1/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/siddu11-1/DSA/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/siddu11-1/DSA/tree/master/2470-removing-stars-from-a-string) |
