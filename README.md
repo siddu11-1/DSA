@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddu11-1/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/siddu11-1/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/siddu11-1/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddu11-1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddu11-1/DSA/tree/master/0027-remove-element) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddu11-1/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/siddu11-1/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/siddu11-1/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddu11-1/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddu11-1/DSA/tree/master/0027-remove-element) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddu11-1/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/siddu11-1/DSA/tree/master/0179-largest-number) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
 ## Math
