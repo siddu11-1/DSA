@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/siddu11-1/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/siddu11-1/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/siddu11-1/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddu11-1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/siddu11-1/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddu11-1/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/siddu11-1/DSA/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/siddu11-1/DSA/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/siddu11-1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/siddu11-1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/siddu11-1/DSA/tree/master/0179-largest-number) |
