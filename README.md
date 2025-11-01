@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/siddu11-1/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/siddu11-1/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/siddu11-1/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/siddu11-1/DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/siddu11-1/DSA/tree/master/1720-crawler-log-folder) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/siddu11-1/DSA/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/siddu11-1/DSA/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
