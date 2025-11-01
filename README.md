@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/siddu11-1/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/siddu11-1/DSA/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/siddu11-1/DSA/tree/master/0740-delete-and-earn) |
+| [0747-min-cost-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/siddu11-1/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/siddu11-1/DSA/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/siddu11-1/DSA/tree/master/0740-delete-and-earn) |
+| [0747-min-cost-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/siddu11-1/DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
