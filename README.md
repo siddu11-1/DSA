@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/siddu11-1/DSA/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
+| [1013-fibonacci-number](https://github.com/siddu11-1/DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/siddu11-1/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/siddu11-1/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/siddu11-1/DSA/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/siddu11-1/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/siddu11-1/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2383-add-two-integers](https://github.com/siddu11-1/DSA/tree/master/2383-add-two-integers) |
 ## Simulation
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/siddu11-1/DSA/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/siddu11-1/DSA/tree/master/0337-house-robber-iii) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/siddu11-1/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
