@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/siddu11-1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/siddu11-1/DSA/tree/master/0377-combination-sum-iv) |
 | [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
+| [0518-coin-change-ii](https://github.com/siddu11-1/DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/siddu11-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/siddu11-1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/siddu11-1/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/siddu11-1/DSA/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/siddu11-1/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
+| [0518-coin-change-ii](https://github.com/siddu11-1/DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/siddu11-1/DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0747-min-cost-climbing-stairs) |
