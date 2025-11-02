@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/siddu11-1/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/siddu11-1/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/siddu11-1/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/siddu11-1/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/siddu11-1/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/siddu11-1/DSA/tree/master/0443-string-compression) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddu11-1/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/siddu11-1/DSA/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/siddu11-1/DSA/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/siddu11-1/DSA/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/siddu11-1/DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/siddu11-1/DSA/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
