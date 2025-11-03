@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/siddu11-1/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/siddu11-1/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/siddu11-1/DSA/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/siddu11-1/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/siddu11-1/DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/siddu11-1/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/siddu11-1/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/siddu11-1/DSA/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/siddu11-1/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [1250-longest-common-subsequence](https://github.com/siddu11-1/DSA/tree/master/1250-longest-common-subsequence) |
