@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/siddu11-1/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/siddu11-1/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/siddu11-1/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/siddu11-1/DSA/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/siddu11-1/DSA/tree/master/1013-fibonacci-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/siddu11-1/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/siddu11-1/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/siddu11-1/DSA/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/siddu11-1/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0874-backspace-string-compare](https://github.com/siddu11-1/DSA/tree/master/0874-backspace-string-compare) |
 | [1250-longest-common-subsequence](https://github.com/siddu11-1/DSA/tree/master/1250-longest-common-subsequence) |
 | [1720-crawler-log-folder](https://github.com/siddu11-1/DSA/tree/master/1720-crawler-log-folder) |
