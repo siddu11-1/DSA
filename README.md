@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/siddu11-1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/siddu11-1/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/siddu11-1/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/siddu11-1/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/siddu11-1/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/siddu11-1/DSA/tree/master/0091-decode-ways) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/siddu11-1/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/siddu11-1/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/siddu11-1/DSA/tree/master/0202-happy-number) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/siddu11-1/DSA/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/siddu11-1/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
