@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/siddu11-1/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siddu11-1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/siddu11-1/DSA/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/siddu11-1/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddu11-1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/siddu11-1/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/siddu11-1/DSA/tree/master/0152-maximum-product-subarray) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/siddu11-1/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/siddu11-1/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/siddu11-1/DSA/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/siddu11-1/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddu11-1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/siddu11-1/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/siddu11-1/DSA/tree/master/0152-maximum-product-subarray) |
