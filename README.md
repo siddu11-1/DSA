@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddu11-1/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1720-crawler-log-folder](https://github.com/siddu11-1/DSA/tree/master/1720-crawler-log-folder) |
 | [2058-concatenation-of-array](https://github.com/siddu11-1/DSA/tree/master/2058-concatenation-of-array) |
+| [3151-minimum-processing-time](https://github.com/siddu11-1/DSA/tree/master/3151-minimum-processing-time) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/siddu11-1/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/siddu11-1/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/siddu11-1/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/siddu11-1/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [3151-minimum-processing-time](https://github.com/siddu11-1/DSA/tree/master/3151-minimum-processing-time) |
 ## String Matching
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/siddu11-1/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/siddu11-1/DSA/tree/master/0179-largest-number) |
 | [0917-boats-to-save-people](https://github.com/siddu11-1/DSA/tree/master/0917-boats-to-save-people) |
+| [3151-minimum-processing-time](https://github.com/siddu11-1/DSA/tree/master/3151-minimum-processing-time) |
 ## Math
 |  |
 | ------- |
