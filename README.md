@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/siddu11-1/DSA/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/siddu11-1/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/siddu11-1/DSA/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/siddu11-1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/siddu11-1/DSA/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/siddu11-1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/siddu11-1/DSA/tree/master/0643-maximum-average-subarray-i) |
