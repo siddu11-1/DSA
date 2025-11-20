@@ -338,14 +338,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/siddu11-1/DSA/tree/master/0337-house-robber-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/siddu11-1/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/siddu11-1/DSA/tree/master/0337-house-robber-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/siddu11-1/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/siddu11-1/DSA/tree/master/0337-house-robber-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/siddu11-1/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/siddu11-1/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/siddu11-1/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
